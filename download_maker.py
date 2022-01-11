@@ -49,7 +49,7 @@ def write_json(new_data, filename=office + '_debug.json'):
 
 def pre_ops():
     pass
-    # print('hello')
+
 def main():
     rf = open(file, 'r')
     data = rf.read()
